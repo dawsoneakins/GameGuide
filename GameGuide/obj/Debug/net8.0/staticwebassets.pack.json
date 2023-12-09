@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dawso\\OneDrive\\Documents\\GameGuideSite\\GameGuide\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameGuide.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameGuide.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dawso\\OneDrive\\Documents\\GameGuideSite\\GameGuide\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\dawso\\OneDrive\\Documents\\GameGuideSite\\GameGuide\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dawso\\OneDrive\\Documents\\GameGuideSite\\GameGuide\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dawso\\OneDrive\\Documents\\GameGuideSite\\GameGuide\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameGuide.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameGuide.props",
+      "PackagePath": "build\\GameGuide.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameGuide.props",
+      "PackagePath": "buildMultiTargeting\\GameGuide.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameGuide.props",
+      "PackagePath": "buildTransitive\\GameGuide.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
